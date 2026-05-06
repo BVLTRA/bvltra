@@ -1,4 +1,5 @@
-<img src="./banner.png" alt="Profile Banner" width="100%" />
+# <img src="./banner.png" alt="Profile Banner" width="100%" />
+# Hello
 *Interactive Development & Systems Architecture*
 
 I like build digital systems and exploring the logic of code. My primary focus is on **Interactive Development**, backend structures, and data tracking (like my recent deployment, [BVLTRA Metrics](https://bvltra.com)). 
