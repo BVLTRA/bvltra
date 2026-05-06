@@ -1,9 +1,9 @@
-# Tshedza
+<img src="./banner.png" alt="Profile Banner" width="100%" />
 *Interactive Development & Systems Architecture*
 
-I build high-performance digital systems and explore the underlying logic of code. My primary focus is on **Interactive Development**, backend structures, and data tracking (like my recent deployment, [BVLTRA Metrics](https://bvltra.com)). 
+I like build digital systems and exploring the logic of code. My primary focus is on **Interactive Development**, backend structures, and data tracking (like my recent deployment, [BVLTRA Metrics](https://bvltra.com)). 
 
-I also study Industrial Design at Open Window in Pretoria, which means I approach software with a structural, systems-first mindset. I care about mechanisms, clean implementation, and understanding how things work all the way down to the metal. 
+Alonside Interactive Development, I also study Industrial Design at Open Window in Pretoria, which means I approach software with a structural, systems-first mindset. I care about mechanisms, clean implementation, and understanding how things work all the way down to the atom. 
 
 ---
 
@@ -13,7 +13,6 @@ I also study Industrial Design at Open Window in Pretoria, which means I approac
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-1a1a1a?style=for-the-badge&logo=figma)
 
