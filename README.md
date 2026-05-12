@@ -2,7 +2,7 @@
 # Hello
 *Interactive Development & Systems Architecture*
 
-I like build digital systems and exploring the logic of code. My primary focus is on **Interactive Development**, backend structures, and data tracking (like my recent deployment, [BVLTRA Metrics](https://bvltra.com)). 
+Idk I like build digital systems and exploring the logic of code. My primary focus is on **Interactive Development**, backend structures, and data tracking (like my recent deployment, [BVLTRA Metrics](https://bvltra.com)). 
 
 Alonside Interactive Development, I also study Industrial Design at Open Window in Pretoria, which means I approach software with a structural, systems-first mindset. I care about mechanisms, clean implementation, and understanding how things work all the way down to the atom. 
 
@@ -21,22 +21,22 @@ Alonside Interactive Development, I also study Industrial Design at Open Window 
 
 ### 📊 Telemetry
 <!-- Live data dashboard from Metrics. Replace 'yourusername' with your actual username. -->
-<img src="https://metrics.lecoq.io/[yourusername]?template=classic&base.header=false&base.activity=true&base.community=false&base.repositories=true&base.metadata=false&config.timezone=Africa%2FJohannesburg" alt="Metrics Dashboard" width="100%" />
-
+<!-- <img src="https://metrics.lecoq.io/[yourusername]?template=classic&base.header=false&base.activity=true&base.community=false&base.repositories=true&base.metadata=false&config.timezone=Africa%2FJohannesburg" alt="Metrics Dashboard" width="100%" /> -->
+Coming soon lol...
 <!-- Animated Contribution Snake -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[yourusername]/[yourusername]/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+</picture> -->
 
 ---
 
 ### 🔭 Current Vectors
-*   **Architecting:** Expanding the data infrastructure for **BVLTRA Metrics**.
+*   **Architecting:** Expanding on my personal website **BVLTRA**.
 *   **Exploring:** The mechanisms of AI reasoning and collaborative LLM systems.
 *   **Executing:** Second-year Interactive Development core projects.
-*   **Leading:** Top 10 Team Lead (Open Window Cares) — coordinating community tech initiatives.
+*   **Leading:** Top 10 Team Lead (Open Window Cares) — coordinating community initiatives.
 
 <!--## Hi there 👋
 
