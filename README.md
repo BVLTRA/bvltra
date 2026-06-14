@@ -13,8 +13,8 @@ My core thesis is absolute: **I can't leave anything half-done.** I will keep tr
 
 ### // Current Focus
 
-* [**SAB Fault Logger**](https://github.com/BVLTRA/bvltra-relay) -> Developing a full-stack fault-logging application for an operational team at the South African Brewery to streamline fault tracking and system diagnostics.
-* [**Digital Portfolio**](https://bvltra.com/) -> Building a long procrastinated personal site to archive the intersection of my software and physical design projects.
+* [**SAB Fault Logger**](https://github.com/BVLTRA/Relay) -> Developing a full-stack fault-logging application for an operational team at the South African Brewery to streamline fault tracking and system diagnostics.
+* [**Digital Portfolio**](https://github.com/BVLTRA/Portfolio) -> Building a long procrastinated personal site to archive the intersection of my software and physical design projects.
 * **Bespoke Web Project** -> Designing and developing a custom personal website for a loved one, so they can show of their fancy work too.
 
 ---
