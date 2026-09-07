@@ -48,4 +48,4 @@ My core thesis is absolute: **I can't leave anything half-done.** I will keep tr
 * **The Loop** -> Make it work. Understand why it works. Destroy it. Rebuild it better.
 * **The Standard** -> Aesthetic appeal is nothing without structural integrity. If it's worth building, it's worth mastering.
 
-* 67
+* 6 was afraid of 7 cause 7 8 9
