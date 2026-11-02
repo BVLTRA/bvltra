@@ -3,9 +3,9 @@
 
 > Learning. Making. Destroying. Rebuilding.
 
-Currently shaping the intersection of software and physical systems as a student at the Open Window Institute, double majoring in Interactive Development and Industrial Design.
+Currently shaping the intersection of software and physical systems as a student at the Open Window Institute, double majoring in Interactive Development and UX/U Design.
 
-I don’t just want to know *that* something works; I need to understand exactly *how* it works, all the way down to the architecture. If a system, an interface, or an object looks really cool, I want to deconstruct it, master it, and reconstruct it my way. 
+I don’t just want to know *that* something works; I need to understand exactly *how* it works, all the way down to the architecture. If a system, an interface, or an process looks really cool, I want to deconstruct it, master it, and reconstruct it my way. 
 
 My core thesis is absolute: **I can't leave anything half-done.** I will keep trying, iterating, and breaking things until the execution matches the vision perfectly, creating work I am genuinely proud to show off.
 
@@ -13,9 +13,13 @@ My core thesis is absolute: **I can't leave anything half-done.** I will keep tr
 
 ### // Current Focus
 
-* [**SAB Fault Logger**](https://github.com/BVLTRA/Relay) -> Developing a full-stack fault-logging application for an operational team at the South African Brewery to streamline fault tracking and system diagnostics.
 * [**Digital Portfolio**](https://github.com/BVLTRA/Portfolio) -> Building a long procrastinated personal site to archive the intersection of my software and physical design projects.
-* **Bespoke Web Project** -> Designing and developing a custom personal website for a loved one, so they can show of their fancy work too.
+
+---
+
+### // DV 200 Projects
+
+* To be added
 
 ---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
