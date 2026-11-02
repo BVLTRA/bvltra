@@ -19,7 +19,11 @@ My core thesis is absolute: **I can't leave anything half-done.** I will keep tr
 
 ### // DV 200 Projects
 
-* To be added
+* [Changeability Remake](https://github.com/BVLTRA/ChangeAbility)
+* [Plethora | Public Diary](https://github.com/BVLTRA/Plethora)
+* [RetroRat | Group project](https://github.com/DVAtors/Retro-Rat)
+* [Gridlock | Creative Login](https://github.com/BVLTRA/Gridlockt)
+* [Metrics | Food Conscious ](https://github.com/BVLTRA/Metrics)
 
 ---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
