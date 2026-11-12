@@ -13,6 +13,7 @@ My core thesis is absolute: **I can't leave anything half-done.** I will keep tr
 
 ### // Current Focus
 
+* [CrearDose](https://github.com/BVLTRA/ClearDose) -> My pool pissed me off, so instead of surfing the entire internet for steps and measurements, this should do it for me.
 * [**Digital Portfolio**](https://github.com/BVLTRA/Portfolio) -> Building a long procrastinated personal site to archive the intersection of my software and physical design projects.
 
 ---
